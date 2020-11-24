@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa8f3d5b-e2f3-431d-b492-9ae02eca7472" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="txkj" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository_pinyougou" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1k36myDUpXAGKf0rroxZVvfhwOa" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test-freemarker/src/main/resources/templates" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1539823" />
+    <property name="project.structure.side.proportion" value="0.29479167" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea\ideaworkspace\txkj" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.tanxin.test.freemarker" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tanxin.manage_course" />
+      <recent name="com.tanxin.manage_course.dao" />
+      <recent name="com.tanxin.api.cms" />
+      <recent name="com.tanxin.manage_course.service" />
+      <recent name="com.tanxin.manage_cms.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\ideaworkspace\txkj\test-freemarker\src\main\resources\templates" />
+      <recent name="D:\idea\ideaworkspace\txkj\tx-govern-center\src\main\resources" />
+      <recent name="D:\idea\ideaworkspace\txkj" />
+      <recent name="D:\idea\ideaworkspace\txkj\tx-service-manage-course\src\main\resources\com\tanxin\manage_course\dao" />
+      <recent name="D:\idea\ideaworkspace\txkj\tx-service-manage-course\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.cms01">
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tanxin.manage_course.dao.Test2" />
+      <module name="tx-service-manage-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tanxin.manage_course.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GridsFsTest.testStore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tx-service-manage-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tanxin.manage_cms.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tanxin.manage_cms.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.tanxin.manage_cms.dao.GridsFsTest" />
+      <option name="METHOD_NAME" value="testStore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRabbion.testRabbion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tx-service-manage-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tanxin.manage_course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tanxin.manage_course" />
+      <option name="MAIN_CLASS_NAME" value="com.tanxin.manage_course.TestRabbion" />
+      <option name="METHOD_NAME" value="testRabbion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testfastdfs.testUpload" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test-fastdfs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tanxin.test.fastdfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tanxin.test.fastdfs" />
+      <option name="MAIN_CLASS_NAME" value="com.tanxin.test.fastdfs.Testfastdfs" />
+      <option name="METHOD_NAME" value="testUpload" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tx-service-base-filesystem" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tanxin.filesystem.FileSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreemarkerTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-freemarker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tanxin.test.freemarker.FreemarkerTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Govern01" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="tx-edu">
+      <module name="tx-govern-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tanxin.govern.center.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tanxin.govern.center.GovernCenterApplication" />
+      <option name="VM_PARAMETERS" value="-DPORT=50101 -DEUREKA_SERVER=http://eureka02:50102/eureka/ -DEUREKA_DOMAIN=eureka01" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Govern02" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="tx-edu">
+      <module name="tx-govern-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tanxin.govern.center.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tanxin.govern.center.GovernCenterApplication" />
+      <option name="VM_PARAMETERS" value="-DPORT=50102 -DEUREKA_SERVER=http://eureka01:50101/eureka/ -DEUREKA_DOMAIN=eureka02" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GovernCenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tx-govern-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tanxin.govern.center.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tanxin.govern.center.GovernCenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageCmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tx-service-manage-cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tanxin.manage_cms.ManageCmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageCmsClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tx-service-manage-cms-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tanxin.manage_cms_client.ManageCmsClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageCourseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tx-service-manage-course" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tanxin.manage_course.ManageCourseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitMqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-rabbitmq-concumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tanxin.test.rabbitmq.RabbitMqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestfastdfsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-fastdfs" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tanxin.test.fastdfs.TestfastdfsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cms01" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="tx-edu">
+      <module name="tx-service-manage-cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tanxin.manage_cms.ManageCmsApplication" />
+      <option name="VM_PARAMETERS" value="-DPORT=31001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cms02" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" folderName="tx-edu">
+      <module name="tx-service-manage-cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tanxin.manage_cms.ManageCmsApplication" />
+      <option name="VM_PARAMETERS" value="-DPORT=31002" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test2" />
+      <item itemvalue="JUnit.Testfastdfs.testUpload" />
+      <item itemvalue="Spring Boot.cms01" />
+      <item itemvalue="Spring Boot.cms02" />
+      <item itemvalue="Spring Boot.Govern01" />
+      <item itemvalue="Spring Boot.Govern02" />
+      <item itemvalue="Spring Boot.ManageCmsClientApplication" />
+      <item itemvalue="Spring Boot.ManageCmsApplication" />
+      <item itemvalue="Spring Boot.FileSystemApplication" />
+      <item itemvalue="Spring Boot.ManageCourseApplication" />
+      <item itemvalue="Spring Boot.RabbitMqApplication" />
+      <item itemvalue="Spring Boot.FreemarkerTestApplication" />
+      <item itemvalue="Spring Boot.TestfastdfsApplication" />
+      <item itemvalue="Spring Boot.GovernCenterApplication" />
+      <item itemvalue="JUnit.TestRabbion.testRabbion" />
+      <item itemvalue="JUnit.GridsFsTest.testStore" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GridsFsTest.testStore" />
+        <item itemvalue="JUnit.TestRabbion.testRabbion" />
+        <item itemvalue="Spring Boot.GovernCenterApplication" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="JUnit.Testfastdfs.testUpload" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.2893013" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="tx-edu" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="tx-edu" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa8f3d5b-e2f3-431d-b492-9ae02eca7472" name="Default Changelist" comment="" />
+      <created>1604917093394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604917093394</updated>
+      <workItem from="1604917102184" duration="4711000" />
+      <workItem from="1604921976876" duration="1263000" />
+      <workItem from="1604980158176" duration="13709000" />
+      <workItem from="1605061998381" duration="5113000" />
+      <workItem from="1605074506620" duration="19234000" />
+      <workItem from="1605148514750" duration="9222000" />
+      <workItem from="1605165145811" duration="20618000" />
+      <workItem from="1605234552091" duration="594000" />
+      <workItem from="1605247383123" duration="4516000" />
+      <workItem from="1605437273666" duration="5516000" />
+      <workItem from="1605451083436" duration="939000" />
+      <workItem from="1605493308632" duration="9642000" />
+      <workItem from="1605515056801" duration="8753000" />
+      <workItem from="1605581054329" duration="25721000" />
+      <workItem from="1605666247427" duration="16485000" />
+      <workItem from="1605703806412" duration="3830000" />
+      <workItem from="1605754052524" duration="7970000" />
+      <workItem from="1605770020353" duration="18780000" />
+      <workItem from="1605839048182" duration="10505000" />
+      <workItem from="1605921066867" duration="203000" />
+      <workItem from="1605921722472" duration="10246000" />
+      <workItem from="1606016229385" duration="16498000" />
+      <workItem from="1606101931738" duration="15372000" />
+      <workItem from="1606184912658" duration="22023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="100" key="#Notifications" timestamp="1604989124010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="100" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1604989124010" />
+    <state x="452" y="100" key="#Project_Structure" timestamp="1606129701937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="100" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1606129701937" />
+    <state x="245" y="195" width="1569" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606185865419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="245" y="195" width="1569" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606185865419" />
+    <state x="800" y="107" key="#com.intellij.ide.util.MemberChooser" timestamp="1606214241579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="800" y="107" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606214241579" />
+    <state x="612" y="288" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606131918640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="612" y="288" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606131918640" />
+    <state x="408" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1605614001491">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="408" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605614001491" />
+    <state x="637" y="375" width="646" height="300" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605165201788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="637" y="375" width="646" height="300" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1605165201788" />
+    <state x="681" y="156" key="FileChooserDialogImpl" timestamp="1606128700427">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="156" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606128700427" />
+    <state width="1869" height="325" key="GridCell.Tab.0.bottom" timestamp="1606224660503">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606224660503" />
+    <state width="1869" height="325" key="GridCell.Tab.0.center" timestamp="1606224660502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="325" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606224660502" />
+    <state width="1869" height="325" key="GridCell.Tab.0.left" timestamp="1606224660502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="325" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606224660502" />
+    <state width="1869" height="325" key="GridCell.Tab.0.right" timestamp="1606224660502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="325" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606224660502" />
+    <state width="1301" height="163" key="GridCell.Tab.1.bottom" timestamp="1606224597682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1301" height="163" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606224597682" />
+    <state width="1301" height="163" key="GridCell.Tab.1.center" timestamp="1606224597682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1301" height="163" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606224597682" />
+    <state width="1301" height="163" key="GridCell.Tab.1.left" timestamp="1606224597682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1301" height="163" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606224597682" />
+    <state width="1301" height="163" key="GridCell.Tab.1.right" timestamp="1606224597682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1301" height="163" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606224597682" />
+    <state width="1301" height="163" key="GridCell.Tab.2.bottom" timestamp="1606224597683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1301" height="163" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606224597683" />
+    <state width="1301" height="163" key="GridCell.Tab.2.center" timestamp="1606224597683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1301" height="163" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606224597683" />
+    <state width="1301" height="163" key="GridCell.Tab.2.left" timestamp="1606224597682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1301" height="163" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606224597682" />
+    <state width="1301" height="163" key="GridCell.Tab.2.right" timestamp="1606224597683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1301" height="163" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606224597683" />
+    <state x="377" y="98" key="Maven.ArtifactSearchDialog" timestamp="1605601772249">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="377" y="98" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605601772249" />
+    <state x="449" y="162" key="NewModule_or_Project.wizard" timestamp="1606128702244">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="449" y="162" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1606128702244" />
+    <state x="434" y="114" key="Registry" timestamp="1605842446001">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="434" y="114" key="Registry/0.0.1920.1040@0.0.1920.1040" timestamp="1605842446001" />
+    <state x="302" y="130" width="1146" height="883" key="SettingsEditor" timestamp="1606128704443">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="302" y="130" width="1146" height="883" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606128704443" />
+    <state x="614" y="198" width="786" height="655" key="StructurePopup" timestamp="1605525095836">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="198" width="786" height="655" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1605525095836" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605176264931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605176264931" />
+    <state x="399" y="200" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1606039929666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="399" y="200" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1606039929666" />
+    <state x="579" y="224" width="762" height="592" key="find.popup" timestamp="1606186830418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="579" y="224" width="762" height="592" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606186830418" />
+    <state x="13" y="161" key="new project wizard" timestamp="1606128626971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="13" y="161" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1606128626971" />
+    <state x="1246" y="334" width="840" height="1034" key="run.anything.popup" timestamp="1605852169852">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1246" y="334" width="840" height="1034" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605852169852" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1606129666025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606129666025" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-cms/src/test/java/com/tanxin/manage_cms/dao/CmsPageRepositoryTest.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-cms/src/test/java/com/tanxin/manage_cms/dao/PageServiceTest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-cms/src/test/java/com/tanxin/manage_cms/dao/RestTempalteTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-cms/src/test/java/com/tanxin/manage_cms/dao/GridsFsTest.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-cms/src/main/java/com/tanxin/manage_cms/controller/CmsPagePreviewController.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/test-rabbitmq-concumer/src/main/java/com/tanxin/test/rabbitmq/mq/RabbitMqHandler.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-cms/src/main/java/com/tanxin/manage_cms/service/CmsPageService.java</url>
+          <line>281</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-cms-client/src/main/java/com/tanxin/manage_cms_client/mq/ConsumerPostPage.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-cms/src/main/java/com/tanxin/manage_cms/service/CmsPageService.java</url>
+          <line>324</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-cms/src/main/java/com/tanxin/manage_cms/service/CmsPageService.java</url>
+          <line>330</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-cms/src/main/java/com/tanxin/manage_cms/service/CmsPageService.java</url>
+          <line>329</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-cms/src/main/java/com/tanxin/manage_cms/service/CmsPageService.java</url>
+          <line>312</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-course/src/test/java/com/tanxin/manage_course/dao/TestDao.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-cms/src/test/java/com/tanxin/manage_cms/dao/GridsFsTest.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-course/src/main/java/com/tanxin/manage_course/controller/CourseController.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-course/src/main/java/com/tanxin/manage_course/service/CourseService.java</url>
+          <line>277</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-course/src/main/java/com/tanxin/manage_course/service/CourseService.java</url>
+          <line>305</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-course/src/main/java/com/tanxin/manage_course/service/CourseService.java</url>
+          <line>287</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-cms/src/main/java/com/tanxin/manage_cms/controller/CmsPageController.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-cms/src/main/java/com/tanxin/manage_cms/service/CmsPageService.java</url>
+          <line>290</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-cms/src/main/java/com/tanxin/manage_cms/service/CmsPageService.java</url>
+          <line>295</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-cms/src/main/java/com/tanxin/manage_cms/service/CmsPageService.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-cms/src/main/java/com/tanxin/manage_cms/service/CmsPageService.java</url>
+          <line>151</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tx-service-manage-cms/src/main/java/com/tanxin/manage_cms/service/CmsPageService.java</url>
+          <line>169</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="store" language="JAVA" />
+        <watch expression="store" language="JAVA" />
+        <watch expression="store.counter" />
+        <watch expression="store" language="JAVA" />
+      </configuration>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="publish_siteId.value" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/test-fastdfs/test-fastdfs.iml" filepath="$PROJECT_DIR$/test-fastdfs/test-fastdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-freemarker/test-freemarker.iml" filepath="$PROJECT_DIR$/test-freemarker/test-freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-rabbitmq-concumer/test-rabbitmq-concumer.iml" filepath="$PROJECT_DIR$/test-rabbitmq-concumer/test-rabbitmq-concumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-rabbitmq-producer/test-rabbitmq-producer.iml" filepath="$PROJECT_DIR$/test-rabbitmq-producer/test-rabbitmq-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-framework-common/tx-framework-common.iml" filepath="$PROJECT_DIR$/tx-framework-common/tx-framework-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-framework-model/tx-framework-model.iml" filepath="$PROJECT_DIR$/tx-framework-model/tx-framework-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-framework-parent/tx-framework-parent.iml" filepath="$PROJECT_DIR$/tx-framework-parent/tx-framework-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-framework-utils/tx-framework-utils.iml" filepath="$PROJECT_DIR$/tx-framework-utils/tx-framework-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-govern-center/tx-govern-center.iml" filepath="$PROJECT_DIR$/tx-govern-center/tx-govern-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-service-api/tx-service-api.iml" filepath="$PROJECT_DIR$/tx-service-api/tx-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-service-base-filesystem/tx-service-base-filesystem.iml" filepath="$PROJECT_DIR$/tx-service-base-filesystem/tx-service-base-filesystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-service-manage-cms/tx-service-manage-cms.iml" filepath="$PROJECT_DIR$/tx-service-manage-cms/tx-service-manage-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-service-manage-cms-client/tx-service-manage-cms-client.iml" filepath="$PROJECT_DIR$/tx-service-manage-cms-client/tx-service-manage-cms-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx-service-manage-course/tx-service-manage-course.iml" filepath="$PROJECT_DIR$/tx-service-manage-course/tx-service-manage-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/txkj.iml" filepath="$PROJECT_DIR$/.idea/txkj.iml" />
+    </modules>
+  </component>
+</project>
